@@ -1,49 +1,49 @@
-*{
-    margin:0;
-    padding:0px;
+* {
+    margin: 0;
+    padding: 0px;
 }
 
+.outer-window {
 
-.outer-window{
-    
-    
+
     overflow: hidden;
     padding: 20px;
 
 }
 
-.div1{
+.div1 {
     display: flex;
-    width:90%;
+    width: 90%;
     padding: 30px;
-    
+
 }
-.div2{
+
+.div2 {
     width: 80%;
 
 }
 
-a{
+a {
     text-decoration: none;
 }
 
-
-.heading{
+.heading {
     color: #000000;
     width: 90%;
     font-size: 31px;
     padding: 10px;
-    
+
 }
-.standfirst{
+
+.standfirst {
     color: #606669;
     width: 90%;
     font-size: 19px;
     padding: 10px;
 }
 
-.category{
-    color:rgb(35, 111, 192);
-    font-size:18px;
+.category {
+    color: rgb(35, 111, 192);
+    font-size: 18px;
     padding: 10px;
 }
