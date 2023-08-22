@@ -8,13 +8,13 @@
     padding: 20px;
 }
 
-.div1 {
+.inner {
     display: flex;
     width: 90%;
     padding: 30px;
 }
 
-.div2 {
+.article {
     width: 80%;
 }
 
